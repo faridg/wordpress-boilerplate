@@ -1,3 +1,11 @@
+/*
+Theme Name: Wordpress Boilerplate
+Author: Farid
+Author URI: github.com/faridg
+Description: Basic Wordpress Theme
+Version: 0.1
+*/
+
 body{
 font-family: Open Sans;
 background: #F7F7F7;
@@ -113,6 +121,15 @@ article.post .meta{
 background:#F7F7F7;
 color:#333;
 padding:7px;
+}
+article.post .meta a{
+background:#F7F7F7;
+color:#333;
+padding:7px;
+}
+article .post-thumbnail img{
+width:100%;
+height:auto;
 }
 .button{
 background:#F7F7F7;
