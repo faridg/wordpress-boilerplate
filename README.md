@@ -1,1 +1,1 @@
-# wordpress-skeleton
+# wordpress boilerplate theme
